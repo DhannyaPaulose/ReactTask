@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 14;
+}
+
+.stepper-container-horizontal {
+  /* border: 1px solid lightsalmon;
+  box-shadow: 0px 0px 13px #333; */
+  border-radius: 3px;
+  margin: 40px auto;
+  padding: 30px auto;
+  width: 90%;
+}
+
+
+
+.buttons-container {
+    text-align: center;
+}
+
+.buttons-container .btn {
+    margin: 0 2rem;
+    width: 100px;
+    padding: 4px;
+    background-color: lightsalmon;
+    border: none;
+}
